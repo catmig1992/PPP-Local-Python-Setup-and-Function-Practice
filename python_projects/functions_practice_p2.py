@@ -63,5 +63,3 @@ def arb_longest_string(*strings):
 longest = arb_longest_string("This", "is", "not", "the", "longest", "supercalifragilisticexpialidocious")
 
 #print(longest)
-
-
